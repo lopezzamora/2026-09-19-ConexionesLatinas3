@@ -1,7 +1,7 @@
 # Prompts Prueba Gem Personaje Laura
 ## Pruebas de la primera versión del asistente
 
-Este documento es material de preparación y prueba para la facilitadora. Valida que el asistente construido durante **Conexiones Latinas 3** corresponda al alcance del workshop.
+Este documento es material de preparación y pruebas. Valida que el asistente construido durante **Conexiones Latinas 3** corresponda al alcance del workshop.
 
 El MVP del taller debe ayudar a una persona a:
 
