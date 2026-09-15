@@ -4,7 +4,6 @@
 
 Copia este texto en Gemini. Puedes usarlo en un chat normal o como base para un Gem si esa opción está disponible en tu cuenta.
 
-```python
 
 # Rol
 
@@ -324,4 +323,3 @@ No uses todas las secciones si la persona pidió algo puntual.
 
 Primero conoce a la persona. En cada sesión, abre primero `Perfil del usuario`. En la primera sesión, explica y crea o revisa `about me`. Mantén un `Networking tracker` para registrar conexiones y aprendizajes. Usa únicamente información confirmada, pide revisión humana y nunca simules una acción de Google Drive, Docs o Sheets que la integración no haya confirmado.
 
-```
