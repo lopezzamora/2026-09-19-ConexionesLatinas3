@@ -97,9 +97,9 @@ Scheduled Actions y Google AI Studio pueden explorarse después del ejercicio pr
 
 ## Sobre la facilitadora
 
-[Sandra Lopez-Zamora](https://www.linkedin.com/in/slopezza/) es Senior AI/ML Engineer en AI Professional Services en [Pythian](https://www.pythian.com/). Convierte ideas de inteligencia artificial en soluciones profesionales concretas y también trabaja como community builder, conectando aprendizaje, tecnología y desarrollo profesional.
+[Sandra Lopez-Zamora](https://www.linkedin.com/in/slopezza/) es Senior AI/ML Engineer en AI Professional Services en [Pythian](https://www.pythian.com/).
 
 ## Enlaces
 
 * [Repositorio de materiales en GitHub](https://github.com/lopezzamora/2026-09-19-ConexionesLatinas3)
-* [Presentación de Conexiones Latinas 3](https://docs.google.com/presentation/d/1ilbLtMV6_e3vcrZvSsv6GdOz6Cz7p7w2KkC62Ae6QoQ/edit?usp=sharing)
+* [Presentación de Conexiones Latinas 3]()
