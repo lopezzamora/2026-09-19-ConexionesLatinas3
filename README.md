@@ -102,4 +102,4 @@ Scheduled Actions y Google AI Studio pueden explorarse después del ejercicio pr
 ## Enlaces
 
 * [Repositorio de materiales en GitHub](https://github.com/lopezzamora/2026-09-19-ConexionesLatinas3)
-* [Presentación de Conexiones Latinas 3]()
+* [Presentación de Conexiones Latinas 3](2026-09-19-ConexionesLatinas3-deck.pdf)
