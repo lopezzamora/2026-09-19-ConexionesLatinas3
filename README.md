@@ -5,7 +5,7 @@
 **Fecha de la charla:** 19 de septiembre de 2026  
 **Título del taller:** *De la incertidumbre a la confianza: Crea tu agente de IA para tu camino profesional en Canadá*  
 **Repositorio de materiales:** [Abrir el repositorio en GitHub](https://github.com/lopezzamora/2026-09-19-ConexionesLatinas3)  
-**Presentación:** [Abrir el deck del taller]()
+**Presentación:** [Abrir el deck del taller](2026-09-19-ConexionesLatinas3-deck.pdf)
 
 ## Sobre este paquete
 
@@ -78,7 +78,7 @@ Idealmente trabaja con alguien que no conocías antes de la sesión. Elijan una 
 * Revisa y edita cualquier script antes de enviarlo.
 * No compartas información de tu cuenta.
 
-## Material adicional para la facilitadora
+## Material adicional para pruebas
 
 **Prompts Prueba Gem Personaje Laura** (`prompts_prueba_gem_personaje_laura.md`) contiene escenarios ficticios para validar el comportamiento de la Gem: petición vaga, punto de conexión, temas, script de coffee chat, seguimiento, bilingüismo, privacidad e iteración.
 
