@@ -96,7 +96,6 @@ Quiero aprender cómo colaboran calidad, producto y desarrollo. Ayúdame a ident
 ## Prompt
 
 ```text
-Usa esta situación ficticia:
 
 Soy Laura, ingeniera de software con experiencia en calidad y testing. Tendré un coffee chat de aproximadamente 30 minutos con Maya, una engineering manager canadiense. Solo sé que Maya trabaja en ingeniería de software y participa en iniciativas de calidad de productos.
 
